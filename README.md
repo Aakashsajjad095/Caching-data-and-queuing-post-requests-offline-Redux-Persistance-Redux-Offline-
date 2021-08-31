@@ -1,9 +1,8 @@
 ## Caching data and queuing post requests offline Redux, Persistance, Redux Offline?
 
-## Using:
+In this Example we will learn how to Caching data and queuing post request and get request when your device dont have internet connected when its connected to internet your app get data from api and post queuing data on server.
 
-Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
-With a myriad of HTTP utility methods and middleware at your disposal, creating a robust API is quick and easy.
+## Using:
 
 - [NetInfo](https://www.npmjs.com/package/@react-native-community/netinfo).
 - [redux](https://www.npmjs.com/package/redux).
